@@ -1,0 +1,25 @@
+body{
+    background-color: #ECF0F3;
+}
+.login_box{
+    width: 950px;
+    height: auto;
+    margin: 2% auto;
+}
+.checked {
+    color: orange;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 30% 30%;
+    grid-gap: 10px;
+    padding: 0px;
+  }
+  
+  .grid-container > div {
+    text-align: center;
+    padding: 0px 0;
+    font-size: 20px;
+  }
+
